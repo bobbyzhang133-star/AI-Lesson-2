@@ -1,4 +1,5 @@
-#Research Journal#
+# Research Journal
 
-##Week 2 Notes##
-Learned how to use MarkDown
+## Spaces Comparism
+### Code Generators
+Qwen3-Coder-WebDev：
