@@ -60,3 +60,58 @@ What topic has this person been exploring? Can you tell from their Space?
 
 Describe this Space in one word: Multi-Functional
 
+### 3D Model Generators
+**Space name:** Qwen3-Coder-WebDev
+
+**Space URL:** [HunYuan-Motion1.0(https://huggingface.co/spaces/tencent/HY-Motion-1.0)
+
+**Tester name:** Bobby Zhang
+
+---
+
+## 1. First Impressions
+
+Before trying it — just from the title and description:
+
+- What do you think this Space does?
+The page of the model seems very proffessional, it has many functionalities and a clear section for generation objects.
+- Is it clear who it's for?
+It kind of clear that it is for people that want to generate 3d models, although it end up more of a 3D model motion generator.
+
+## 2. Testing
+
+Try at least 3 inputs:
+
+| Input you tried | What happened | Was it what you expected? |
+|----------------|---------------|--------------------------|
+|A monster chicken with no face| If first rewrite the text into"a figure is performing a crab walk with its hands and feet on the floor," and then generated 4 human skeletal structures that is crawling but not moving. | no|
+|A monster chicken with no face walking with it's stomach |It rewrites into "A person performs a chicken walk forward," and formed 4 human skeletural structure crawling forward |No |
+|A kid doing a street dance turning around on the floor |Rewrite into "A person performs a contemporary dance routine, involving floorwork and a turn," generated four people doing cringy dances  |no |
+## 3. What Worked Well
+
+Write one specific thing that was good:
+
+>In is able to generate movements and also movement by changing xy position
+
+## 4. What Confused You
+
+Write one specific thing that was unclear or surprising:
+
+Why does it chose 4 skelectual model to be the basci model that will be doing the motion
+
+## 5. One Suggestion
+
+If you could change one thing about this Space, what would it be?
+
+> See if it can add model generation also in addition to pure motion generator.
+
+## 6. Research Connection
+
+What topic has this person been exploring? Can you tell from their Space?
+
+> It's been all espect of gnerator AI like 3d modeling, normal responsive AI's, 3d setting model generator AI.
+
+## 7. One Word
+
+Restricted.
+
