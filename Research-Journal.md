@@ -115,5 +115,5 @@ What topic has this person been exploring? Can you tell from their Space?
 
 Restricted.
 
-# Research Qetion
+# Research Quetion
 
