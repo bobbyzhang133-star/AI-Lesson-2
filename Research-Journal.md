@@ -119,5 +119,6 @@ Restricted.
 Quetion:
 What do AI use to decide the theme of whatever it generates and what ways can keep different types of generative AI, 3d, image, and text, to generate things in the same theme?
 
+# Week 5
 
 
