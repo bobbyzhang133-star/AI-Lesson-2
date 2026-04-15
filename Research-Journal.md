@@ -120,5 +120,12 @@ Quetion:
 What do AI use to decide the theme of whatever it generates and what ways can keep different types of generative AI, 3d, image, and text, to generate things in the same theme?
 
 # Week 5
+## Space 1
+What I biuld: A text to text generator where it can generate game story scripts or diolougues. You can choose the type of text you want and the three models you want to use, GPT2.5, Qwen 2.5 and HuggingFaceTB/SmolLM2-360M-Instruct.
+
+What I added: I talked with claud AI and try to make it to a text to code generator that can generate a game, It eventually runs but didn't work really well. I decided to stick back to supporting generations like 3d model, game scripts, image generations for scenes.
+
+
+
 
 
