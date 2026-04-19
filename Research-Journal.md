@@ -1,6 +1,6 @@
 # Research Journal
 
-## Spaces Comparism
+## WEEK 1 - Spaces Comparism
 ### Code Generators
 
 **Space name:** Qwen3-Coder-WebDev
