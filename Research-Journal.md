@@ -125,6 +125,14 @@ What I biuld: A text to text generator where it can generate game story scripts 
 
 What I added: I talked with claud AI and try to make it to a text to code generator that can generate a game, It eventually runs but didn't work really well. I decided to stick back to supporting generations like 3d model, game scripts, image generations for scenes.
 
+What Went Wrong: Rather than building a game, it creates a program where there is a chat box to run the game, like a "word choice" kind of like. Went very weird.
+
+
+# Week6
+## Game Builder Pro and Free
+What I do: The originall Chat GPT 2.5 is to small for writting codes. I decided to use Interface from Qwen Code 3 Next, more over I add a image generating AI to generate the sprites for my game so that the game will not only have color blocks, but actually images and drawing. \
+
+Probblem I faced: Hugging face has restrictions on the "quota" you can use, which is something you will need to spend when running models on interfaces, the Qwen-Code3-Next immediately use up all the quota I have without even having a chance to run one time successfully. 
 
 
 
